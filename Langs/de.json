@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "Musixmatch-Benutzertoken",
+  "Config_Token_Desc": "Optional. Leer lassen, damit das Plugin automatisch ein Token abruft und zwischenspeichert.",
+  "Config_TranslationLanguage_Name": "Übersetzungssprache",
+  "Config_TranslationLanguage_Desc": "ISO-Sprachcode für Zeilenübersetzungen von Musixmatch (z. B. pt, en, es). Verwende 'none', um auszuschalten.",
+  "Config_PreferWordByWord_Name": "Wort-für-Wort-Lyrics bevorzugen",
+  "Config_PreferWordByWord_Desc": "Wenn verfügbar, verwende Musixmatchs Wort-für-Wort-Zeitstempel anstelle von nur zeilen-synchronisierten Lyrics."
+}

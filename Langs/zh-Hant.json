@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "Musixmatch 使用者權杖",
+  "Config_Token_Desc": "選填。請留空，讓外掛自動擷取並快取權杖。",
+  "Config_TranslationLanguage_Name": "翻譯語言",
+  "Config_TranslationLanguage_Desc": "Musixmatch 取得的歌詞翻譯的 ISO 語言代碼（例如 pt、en、es）。使用 'none' 以停用。",
+  "Config_PreferWordByWord_Name": "優先逐字歌詞",
+  "Config_PreferWordByWord_Desc": "如果可用，請使用 Musixmatch 的逐字定時，而不是僅按行同步的歌詞。"
+}

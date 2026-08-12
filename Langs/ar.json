@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "رمز مستخدم Musixmatch",
+  "Config_Token_Desc": "اختياري. اتركه فارغًا لتمكين الإضافة من جلب رمز وتخزينه مؤقتًا تلقائيًا.",
+  "Config_TranslationLanguage_Name": "لغة الترجمة",
+  "Config_TranslationLanguage_Desc": "رمز لغة ISO لترجمات الأسطر التي يجلبها Musixmatch (مثلاً pt، en، es). استخدم 'none' للتعطيل.",
+  "Config_PreferWordByWord_Name": "تفضيل كلمات متزامنة",
+  "Config_PreferWordByWord_Desc": "عند توفرها، استخدم توقيت الكلمات واحدًا تلو الآخر في Musixmatch بدلاً من كلمات متزامنة على مستوى السطر فقط."
+}

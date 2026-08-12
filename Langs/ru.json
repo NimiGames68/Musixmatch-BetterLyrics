@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "Токен пользователя Musixmatch",
+  "Config_Token_Desc": "Необязательно. Оставьте пустым, чтобы плагин автоматически получил и кэшировал токен.",
+  "Config_TranslationLanguage_Name": "Язык перевода",
+  "Config_TranslationLanguage_Desc": "ISO-код языка для переводов строк, получаемых из Musixmatch (например, pt, en, es). Используйте 'none', чтобы отключить.",
+  "Config_PreferWordByWord_Name": "Предпочитать слово за словом",
+  "Config_PreferWordByWord_Desc": "Если доступно, используйте показ слова за словом Musixmatch вместо синхронизированных по строкам текстов."
+}

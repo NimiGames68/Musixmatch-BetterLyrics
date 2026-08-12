@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "Musixmatchユーザートークン",
+  "Config_Token_Desc": "オプションです。プラグインにトークンを自動的に取得してキャッシュさせるには空のままにしてください。",
+  "Config_TranslationLanguage_Name": "翻訳言語",
+  "Config_TranslationLanguage_Desc": "Musixmatchから取得した行の翻訳のISO言語コード（例: pt, en, es）。無効にするには 'none' を使用します。",
+  "Config_PreferWordByWord_Name": "単語ごとの歌詞を優先",
+  "Config_PreferWordByWord_Desc": "利用可能な場合、行単位の同期歌詞ではなく、Musixmatchの単語ごとのタイミングを使用します。"
+}

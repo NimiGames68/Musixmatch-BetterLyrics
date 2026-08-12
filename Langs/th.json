@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "โทเค็นผู้ใช้ Musixmatch",
+  "Config_Token_Desc": "ไม่บังคับ ปล่อยว่างไว้เพื่อให้ปลั๊กอินดึงและแคชโทเค็นโดยอัตโนมัติ",
+  "Config_TranslationLanguage_Name": "ภาษาการแปล",
+  "Config_TranslationLanguage_Desc": "รหัสภาษาตามมาตรฐาน ISO สำหรับการแปลบรรทัดที่ดึงจาก Musixmatch (เช่น pt, en, es) ใช้ 'none' เพื่อปิดใช้งาน",
+  "Config_PreferWordByWord_Name": "ใช้เนื้อเพลงแบบคำต่อคำ",
+  "Config_PreferWordByWord_Desc": "เมื่อมีให้ใช้การจับเวลาคำต่อคำของ Musixmatch แทนเนื้อเพลงที่ซิงค์แบบเป็นบรรทัด"
+}

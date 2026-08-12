@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<EnableDynamicLoading>true</EnableDynamicLoading>
+		<Description>Adds Musixmatch as a lyrics source</Description>
+		<RepositoryUrl>https://github.com/NimiGames68/Musixmatch-BetterLyrics</RepositoryUrl>
+		<Version>1.0.0</Version>
+		<Authors>NimiGames68</Authors>
+		<Company>$(NimiGames68)</Company>
+		<Copyright>Copyright © 2026 $(NimiGames68)</Copyright>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<BetterLyricsHostDir>C:\Users\HP\Projects\BetterLyrics\src\BetterLyrics.DotNet</BetterLyricsHostDir>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Update="Langs\*.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="BetterLyrics.DevTools" Version="1.0.1" />
+		<PackageReference Include="BetterLyrics.Sdk" Version="1.0.0" />
+	</ItemGroup>
+
+</Project>

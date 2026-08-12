@@ -1,0 +1,8 @@
+{
+  "Config_Token_Name": "Jeton d'utilisateur Musixmatch",
+  "Config_Token_Desc": "Optionnel. Laissez vide pour que le plugin récupère et mette en cache un jeton automatiquement.",
+  "Config_TranslationLanguage_Name": "Langue de traduction",
+  "Config_TranslationLanguage_Desc": "Code de langue ISO pour les traductions de lignes récupérées depuis Musixmatch (par ex. pt, en, es). Utilisez 'none' pour désactiver.",
+  "Config_PreferWordByWord_Name": "Préférer les paroles mot à mot",
+  "Config_PreferWordByWord_Desc": "Lorsque disponible, utilisez la synchronisation mot à mot de Musixmatch au lieu des paroles synchronisées uniquement par ligne."
+}
