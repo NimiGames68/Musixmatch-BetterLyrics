@@ -23,6 +23,14 @@
 		</None>
 	</ItemGroup>
 
+<Target Name="OverrideBetterLyricsLangs" AfterTargets="RunBetterLyricsDevTools">
+    <ItemGroup>
+        <BlpFile Include="$(ProjectDir)Dist\*.blp" />
+    </ItemGroup>
+    <Exec Command="powershell -NoProfile -ExecutionPolicy Bypass -File &quot;$(ProjectDir)fix-langs.ps1&quot; -BlpPath &quot;%(BlpFile.FullPath)&quot; -OverrideDir &quot;$(ProjectDir)LangsOverride&quot;"
+          Condition="'@(BlpFile)' != ''" />
+</Target>
+
 	<ItemGroup>
 		<PackageReference Include="BetterLyrics.DevTools" Version="1.0.1" />
 		<PackageReference Include="BetterLyrics.Sdk" Version="1.0.0" />

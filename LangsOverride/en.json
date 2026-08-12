@@ -1,0 +1,8 @@
+{
+  "Settings.Token.Label": "Musixmatch User Token",
+  "Settings.Token.Desc": "Optional. Leave empty to let the plugin fetch and cache a token automatically.",
+  "Settings.TranslationLanguage.Label": "Translation Language",
+  "Settings.TranslationLanguage.Desc": "ISO language code for line translations fetched from Musixmatch (e.g. pt, en, es). Use 'none' to disable.",
+  "Settings.PreferWordByWord.Label": "Prefer Word-by-word Lyrics",
+  "Settings.PreferWordByWord.Desc": "When available, use Musixmatch's word-by-word (richsync) timing instead of line-only synced lyrics."
+}

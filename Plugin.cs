@@ -217,6 +217,16 @@ namespace BetterLyrics.Plugins.Source.Musixmatch
             var richsyncJson = bodyEl.GetString();
             if (string.IsNullOrWhiteSpace(richsyncJson)) return null;
 
+   // --- DEBUG TEMPORÁRIO: grava o richsync_body em bruto para diagnóstico ---
+   try
+   {
+       var desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
+       var debugPath = Path.Combine(desktopPath, "musixmatch_richsync_debug.json");
+       File.WriteAllText(debugPath, richsyncJson);
+   }
+   catch { /* ignora falhas no log de depuração */ }
+   // --- FIM DEBUG TEMPORÁRIO ---
+
             var arr = JsonSerializer.Deserialize(richsyncJson, SourceGenerationContext.Default.JsonElement);
             if (arr.ValueKind != JsonValueKind.Array) return null;
 
