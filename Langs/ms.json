@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Token Pengguna Musixmatch",
-  "Config_Token_Desc": "Pilihan. Kosongkan untuk membiarkan pemalam mengambil dan menyimpan token secara automatik.",
-  "Config_TranslationLanguage_Name": "Bahasa Terjemahan",
-  "Config_TranslationLanguage_Desc": "Kod bahasa ISO untuk terjemahan baris yang diambil dari Musixmatch (contoh: pt, en, es). Gunakan 'none' untuk melumpuhkan.",
-  "Config_PreferWordByWord_Name": "Utamakan Lirik Perkataan demi Perkataan",
-  "Config_PreferWordByWord_Desc": "Apabila tersedia, gunakan pemasaan perkataan demi perkataan Musixmatch dan bukannya lirik yang disegerakkan hanya pada tahap baris."
-}

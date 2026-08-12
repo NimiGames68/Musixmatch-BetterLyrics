@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Token utente Musixmatch",
-  "Config_Token_Desc": "Opzionale. Lasciare vuoto per consentire al plugin di recuperare e memorizzare nella cache un token automaticamente.",
-  "Config_TranslationLanguage_Name": "Lingua di traduzione",
-  "Config_TranslationLanguage_Desc": "Codice lingua ISO per le traduzioni delle righe recuperate da Musixmatch (es. pt, en, es). Usa 'none' per disabilitare.",
-  "Config_PreferWordByWord_Name": "Preferisci testi parola per parola",
-  "Config_PreferWordByWord_Desc": "Quando disponibile, usa il timing parola per parola di Musixmatch invece dei testi sincronizzati solo a livello di riga."
-}

@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Token de usuario de Musixmatch",
-  "Config_Token_Desc": "Opcional. Déjalo vacío para que el complemento obtenga y almacene en caché un token automáticamente.",
-  "Config_TranslationLanguage_Name": "Idioma de traducción",
-  "Config_TranslationLanguage_Desc": "Código de idioma ISO para las traducciones de líneas obtenidas de Musixmatch (por ejemplo, pt, en, es). Usa 'none' para desactivar.",
-  "Config_PreferWordByWord_Name": "Preferir letras palabra por palabra",
-  "Config_PreferWordByWord_Desc": "Cuando esté disponible, usa el tiempo palabra por palabra de Musixmatch en lugar de letras sincronizadas solo por línea."
-}

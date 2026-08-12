@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Musixmatch User Token",
-  "Config_Token_Desc": "Optional. Leave empty to let the plugin fetch and cache a token automatically.",
-  "Config_TranslationLanguage_Name": "Translation Language",
-  "Config_TranslationLanguage_Desc": "ISO language code for line translations fetched from Musixmatch (e.g. pt, en, es). Use 'none' to disable.",
-  "Config_PreferWordByWord_Name": "Prefer Word-by-word Lyrics",
-  "Config_PreferWordByWord_Desc": "When available, use Musixmatch's word-by-word timing instead of line-only synced lyrics."
-}

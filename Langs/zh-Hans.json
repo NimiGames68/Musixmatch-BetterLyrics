@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Musixmatch 用户令牌",
-  "Config_Token_Desc": "可选。留空以让插件自动获取并缓存令牌。",
-  "Config_TranslationLanguage_Name": "翻译语言",
-  "Config_TranslationLanguage_Desc": "用于 Musixmatch 获取的歌词翻译的 ISO 语言代码（例如 pt、en、es）。使用 'none' 以禁用。",
-  "Config_PreferWordByWord_Name": "优先使用逐词歌词",
-  "Config_PreferWordByWord_Desc": "如果可用，请使用 Musixmatch 的逐词计时，而不是仅按行同步的歌词。"
-}

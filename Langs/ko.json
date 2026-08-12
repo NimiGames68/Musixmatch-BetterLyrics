@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Musixmatch 사용자 토큰",
-  "Config_Token_Desc": "선택 사항입니다. 플러그인이 토큰을 자동으로 가져와 캐시하도록 비워 두세요.",
-  "Config_TranslationLanguage_Name": "번역 언어",
-  "Config_TranslationLanguage_Desc": "Musixmatch에서 가져온 줄 번역에 대한 ISO 언어 코드(예: pt, en, es). 비활성화하려면 'none'을 사용하세요.",
-  "Config_PreferWordByWord_Name": "단어별 가사 우선",
-  "Config_PreferWordByWord_Desc": "사용 가능한 경우, 행 단위 동기화 가사 대신 Musixmatch의 단어별 타이밍을 사용합니다."
-}

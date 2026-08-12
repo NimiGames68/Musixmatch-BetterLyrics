@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Mã thông báo người dùng Musixmatch",
-  "Config_Token_Desc": "Tùy chọn. Để trống để plugin tự động lấy và lưu trữ mã thông báo.",
-  "Config_TranslationLanguage_Name": "Ngôn ngữ dịch",
-  "Config_TranslationLanguage_Desc": "Mã ngôn ngữ ISO cho bản dịch dòng được lấy từ Musixmatch (ví dụ: pt, en, es). Sử dụng 'none' để vô hiệu hóa.",
-  "Config_PreferWordByWord_Name": "Ưu tiên lời bài hát từng từ",
-  "Config_PreferWordByWord_Desc": "Khi có sẵn, sử dụng thời gian từng từ của Musixmatch thay vì lời đồng bộ chỉ theo dòng."
-}

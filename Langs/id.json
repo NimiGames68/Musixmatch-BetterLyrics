@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Token Pengguna Musixmatch",
-  "Config_Token_Desc": "Opsional. Kosongkan untuk membiarkan plugin mengambil dan menyimpan token secara otomatis.",
-  "Config_TranslationLanguage_Name": "Bahasa Terjemahan",
-  "Config_TranslationLanguage_Desc": "Kode bahasa ISO untuk terjemahan baris yang diambil dari Musixmatch (mis. pt, en, es). Gunakan 'none' untuk menonaktifkan.",
-  "Config_PreferWordByWord_Name": "Preferensi Lirik Kata demi Kata",
-  "Config_PreferWordByWord_Desc": "Jika tersedia, gunakan timing kata demi kata Musixmatch daripada lirik yang disinkronkan hanya per baris."
-}

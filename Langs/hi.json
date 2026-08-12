@@ -1,8 +1,0 @@
-{
-  "Config_Token_Name": "Musixmatch उपयोगकर्ता टोकन",
-  "Config_Token_Desc": "वैकल्पिक। प्लगइन को स्वतः टोकन लाने और कैश करने के लिए खाली छोड़ें।",
-  "Config_TranslationLanguage_Name": "अनुवाद भाषा",
-  "Config_TranslationLanguage_Desc": "Musixmatch से लाई गई पंक्ति अनुवादों के लिए ISO भाषा कोड (जैसे pt, en, es)। अक्षम करने के लिए 'none' का उपयोग करें।",
-  "Config_PreferWordByWord_Name": "शब्द-दर-शब्द गीत वरीयता",
-  "Config_PreferWordByWord_Desc": "जब उपलब्ध हो, तो केवल पंक्ति-सिंक किए गए गीतों के बजाय Musixmatch का शब्द-दर-शब्द टाइमिंग उपयोग करें।"
-}
