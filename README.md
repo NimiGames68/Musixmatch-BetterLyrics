@@ -1,5 +1,5 @@
 # Musixmatch-BetterLyrics
-A plugin for BetterLyrics that adds Musixmatch as a lyrics source
+A plugin for [BetterLyrics](https://github.com/jayfunc/BetterLyrics) that adds Musixmatch as a lyrics source
 
 ## Install
 Go to the [releases](https://github.com/NimiGames68/Musixmatch-BetterLyrics/releases/latest) and download the .blp file, then run it.
