@@ -16,6 +16,9 @@ git clone https://github.com/NimiGames68/Musixmatch-BetterLyrics.git
 git clone https://github.com/jayfunc/BetterLyrics.git
 ```
 
+On Visual Studio, on the top there is a little bar, search for an option saying `Tools` (or something like that) click it, it should bring up a pop-up with some options, click on the last one saying options, that brings up a menu, on the left panel, look into an option saying `Manage NuGet packages`, click that and scroll for a bit until you find an thing called `Sources` right there should be an option saying `Package Sources` with an add button, click it and name it `CommunityToolkit Labs` with this URL `https://pkgs.dev.azure.com/dotnet/CommunityToolkit/_packaging/CommunityToolkit-Labs/nuget/v3/index.json` and save it.
+
+
 On the BetterLyrics folder, go to `BetterLyrics\src\BetterLyrics.DotNet\BetterLyrics.Core\Constants` and change the file names from `DiscordTemplate` `LastFMTemplate` to `Discord.cs` `LastFM.cs`
 
 Now go to `BetterLyrics\src\BetterLyrics.DotNet` and click on the `BetterLyrics.slnx` file, and compile it by pressing ctrl+shift+b (it could take some time)
