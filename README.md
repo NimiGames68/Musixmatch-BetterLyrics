@@ -31,7 +31,7 @@ Now open the `BetterLyrics.Plugins.Source.Musixmatch.slnx` file and press crtl+s
 
 |Karaoke|Line Synced|
 |-|-|
-|<img src="https://github.com/NimiGames68/Musixmatch-BetterLyrics/blob/main/assets/karaoke.png"|<img src="https://github.com/NimiGames68/Musixmatch-BetterLyrics/blob/main/assets/synced.png"|
+| <img src="https://github.com/NimiGames68/Musixmatch-BetterLyrics/blob/main/assets/karaoke.png" | <img src="https://github.com/NimiGames68/Musixmatch-BetterLyrics/blob/main/assets/synced.png" |
 
 ## License
 
