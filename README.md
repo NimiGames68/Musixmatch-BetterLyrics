@@ -36,6 +36,9 @@ Now open the `BetterLyrics.Plugins.Source.Musixmatch.slnx` file and press crtl+s
 |-|-|
 | <img src="https://github.com/NimiGames68/Musixmatch-BetterLyrics/blob/main/assets/karaoke.png?raw=true"> | <img src="https://github.com/NimiGames68/Musixmatch-BetterLyrics/blob/main/assets/synced.png?raw=true"> |
 
+> [!IMPORTANT]
+> This might violate the Musixmatch ToS, it doesn't use the Musixmatch API, but a internal API meant for their mobile apps (apic-appmobile.musixmatch.com), use with caution.
+
 ## License
 
 MIT
