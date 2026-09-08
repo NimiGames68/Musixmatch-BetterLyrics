@@ -1,4 +1,8 @@
 # Musixmatch-BetterLyrics
+
+[![License](https://img.shields.io/github/license/NimiGames68/Musixmatch-BetterLyrics)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/NimiGames68/Musixmatch-BetterLyrics/total)](https://github.com/NimiGames68/Musixmatch-BetterLyrics/releases)
+
 A plugin for [BetterLyrics](https://github.com/jayfunc/BetterLyrics) that adds Musixmatch as a lyrics source
 
 ## Install
